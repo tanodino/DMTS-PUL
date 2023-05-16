@@ -28,5 +28,6 @@ The first argument (DATA) is the name of the directory in which data are availab
 The second argument (30) is the number of positive samples available. This parameter is used to load the files (P/U/T)_30_(X/Y).npy
 
 
-[1] 	Dino Ienco: A Deep Neural Network Framework for Multivariate Time Series Classification With Positive and Unlabeled Data. IEEE Access 11: 20877-20884 (2023)
+[1] Dino Ienco: A Deep Neural Network Framework for Multivariate Time Series Classification With Positive and Unlabeled Data. IEEE Access 11: 20877-20884 (2023)
+
 [2] https://github.com/hfawaz/dl-4-tsc
